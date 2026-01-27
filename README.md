@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Full-stack web applications using Java, Spring Boot, Angular, and AWS, focusing on scalable and secure APIs.<br><br>👯 I’m looking to collaborate on: Full-stack projects, microservices-based systems, and enterprise web applications.<br><br>🤝 I’m looking for help with: System design, cloud architecture best practices, and CI/CD automation.<br><br>🌱 I’m currently learning: Advanced system design, cloud-native patterns, and frontend performance optimization.<br><br>💬 Ask me about: Java, Spring Boot, REST APIs, Angular, microservices, AWS, Kafka, and databases.<br><br>⚡ Fun fact: I enjoy debugging and optimizing code more than watching movies 😄
+🔭 I’m currently working on Full-stack web applications using Java, Spring Boot, Angular, and AWS, focusing on scalable and secure APIs.<br><br>👯 I’m looking to collaborate on Full-stack projects, microservices-based systems, and enterprise web applications.<br><br>🤝 I’m looking for help with System design, cloud architecture best practices, and CI/CD automation.<br><br>🌱 I’m currently learning Advanced system design, cloud-native patterns, and frontend performance optimization.<br><br>💬 Ask me about Java, Spring Boot, REST APIs, Angular, microservices, AWS, Kafka, and databases.<br><br>⚡ Fun fact I enjoy debugging and optimizing code more than watching movies 😄
 
 
 ## 🌐 Socials:
