@@ -1,0 +1,37 @@
+<!-- CERTIFICATIONS -->
+<section id="certifications" class="section section-certifications">
+  <div class="certifications-container">
+    <h2>Certifications</h2>
+    
+    <div class="certifications-grid">
+      <div 
+        *ngFor="let cert of certifications" 
+        class="certification-card"
+      >
+        <div class="certification-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 4.5a10 10 0 0 1-18.8 4.2"></path>
+          </svg>
+        </div>
+        <div class="certification-content">
+          <h3>{{ cert.name }}</h3>
+          <p class="date">
+            <strong>Issued:</strong> {{ cert.issueDate }}
+          </p>
+          <p class="date">
+            <strong>Expires:</strong> {{ cert.expiryDate }}
+          </p>
+          <p class="credential-id">
+            <strong>Credential ID:</strong> {{ cert.credentialId }}
+          </p>
+          <p class="verification">
+            <strong>Verification:</strong> 
+            <a href="{{ cert.verificationUrl }}" target="_blank" rel="noopener noreferrer">
+              AWS Verification Link
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
